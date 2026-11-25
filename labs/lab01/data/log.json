@@ -1,0 +1,111 @@
+[
+  {
+    "timestamp": "2026-01-01T09:00:00Z",
+    "username": "alice",
+    "action": "login"
+  },
+  {
+    "timestamp": "2026-01-01T09:05:00Z",
+    "username": "bob",
+    "action": "view_report"
+  },
+  {
+    "event": "login",
+    "user": "crypto.admin",
+    "result": "success",
+    "timestamp": "2026-11-25 23:51:15",
+    "args": [
+      "crypto.admin",
+      "[REDACTED]"
+    ],
+    "kwargs": {}
+  },
+  {
+    "event": "login",
+    "user": "crypto.admin",
+    "result": "failure",
+    "timestamp": "2026-11-25 23:51:15",
+    "args": [
+      "crypto.admin",
+      "[REDACTED]"
+    ],
+    "kwargs": {}
+  },
+  {
+    "event": "login",
+    "user": "crypto.admin",
+    "result": "success",
+    "timestamp": "2026-11-25 23:52:06",
+    "args": [
+      "crypto.admin",
+      "[REDACTED]"
+    ],
+    "kwargs": {}
+  },
+  {
+    "event": "login",
+    "user": "crypto.admin",
+    "result": "failure",
+    "timestamp": "2026-11-25 23:52:06",
+    "args": [
+      "crypto.admin",
+      "[REDACTED]"
+    ],
+    "kwargs": {}
+  },
+  {
+    "event": "login",
+    "user": "",
+    "result": "failure",
+    "timestamp": "2026-11-26 00:06:16",
+    "args": [
+      "",
+      "[REDACTED]"
+    ],
+    "kwargs": {}
+  },
+  {
+    "event": "login",
+    "user": "crypto.admin",
+    "result": "success",
+    "timestamp": "2026-11-26 00:06:16",
+    "args": [
+      "crypto.admin",
+      "[REDACTED]"
+    ],
+    "kwargs": {}
+  },
+  {
+    "event": "login",
+    "user": "crypto.admin",
+    "result": "failure",
+    "timestamp": "2026-11-26 00:06:16",
+    "args": [
+      "crypto.admin",
+      "[REDACTED]"
+    ],
+    "kwargs": {}
+  },
+  {
+    "event": "login",
+    "user": "crypto.admin",
+    "result": "success",
+    "timestamp": "2026-11-26 00:08:14",
+    "args": [
+      "crypto.admin",
+      "[REDACTED]"
+    ],
+    "kwargs": {}
+  },
+  {
+    "event": "login",
+    "user": "crypto.admin",
+    "result": "failure",
+    "timestamp": "2026-11-26 00:08:14",
+    "args": [
+      "crypto.admin",
+      "[REDACTED]"
+    ],
+    "kwargs": {}
+  }
+]
